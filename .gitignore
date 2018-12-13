@@ -38,7 +38,7 @@ modules.builtin
 Module.symvers
 *.dwo
 *.su
-
+*.rej
 #
 # Top-level generic files
 #
